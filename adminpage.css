@@ -1,0 +1,112 @@
+
+#cela {
+	background-color: #DCD0C0;
+	width: 1100px;
+	height: 2000px;
+	display: block;
+	margin: 0 auto;
+	position: relative;
+	font-family: arial;
+	border-radius: 10px;
+}
+
+#head {
+	
+	width: 1000px;
+	height: 235px;
+	margin-top: 27px;
+	margin-left: 40px;
+	float: left;
+	border-radius: 10px;
+}
+
+
+
+#content {
+	
+	width: 775px;
+    min-height: 1550px;
+    float: left;
+    margin-left: 45px;
+}
+
+#side {
+		width: 210px;
+	min-height: 1550px;
+	float: left;
+	margin-left: 10px;
+}
+
+
+#footer {
+	
+	width: 1000px;
+	height: 157px;
+	float: left;
+	border-top-left-radius: 10px;
+	margin-left: 45px;
+}
+
+#zpet {
+	position: fixed;
+	bottom: 40px;
+	right: 40px;
+	display: none;
+
+}
+
+#zavadyselect {
+	width: 700px;
+	height: 75px;
+	float: top;
+}
+
+#logoutek {
+	float: right;
+}
+
+#nazevselect {
+	border: 1px solid;
+	border-color: black;
+	border-radius: 5px;
+	height: 70px;
+	width: 60px;
+	float: left;
+}
+
+#popisselect {
+	border: 1px solid;
+	border-color: black;
+	border-radius: 5px;
+	height: 70px;
+	width: 300px;
+	float: left;
+}
+
+#typzavadyselect {
+	border: 1px solid;
+	border-color: black;
+	border-radius: 5px;
+	height: 70px;
+	width: 100px;
+	float: left;
+}
+
+#datumzadaniselect {
+	border: 1px solid;
+	border-color: black;
+	border-radius: 5px;
+	height: 70px;
+	width: 100px;
+	float: left;
+}
+
+
+
+
+
+
+
+
+
+
